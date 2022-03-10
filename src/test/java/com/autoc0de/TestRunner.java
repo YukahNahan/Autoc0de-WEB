@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
         },
         features = {"src/test/resources/features"},
         glue = {"com.autoc0de.steps","com.autoc0de.core.hooks"},
-        tags = "@ExampleTag"
+        tags = "@Smooke"
 )
 @Test
 public class TestRunner extends AbstractTestNGCucumberTests {

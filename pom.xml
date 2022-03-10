@@ -57,7 +57,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <cucumber.version>6.8.0</cucumber.version>
         <!-- CHANGE THIS URL FOR YOUR SITE URL -->
-        <web.url>https://underc0de.org/</web.url>
+        <web.url>https://miclaro.claro.com.ar/</web.url>
     </properties>
 
     <profiles>
